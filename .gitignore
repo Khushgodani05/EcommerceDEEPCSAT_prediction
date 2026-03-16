@@ -1,0 +1,4 @@
+*__init__.py
+*.pkl
+__pycache__
+*.csv
